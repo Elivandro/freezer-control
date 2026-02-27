@@ -1,5 +1,28 @@
 # Changelog
 
+## 1.0.0 (2026-02-27)
+
+
+### Features
+
+* Add botões de deleção com notificações no resources ([2b86697](https://github.com/Elivandro/freezer-control/commit/2b86697b7a3ebe8b4b06e3fe94badd13b3c2a7c2))
+* add link produto modal infolist ([cfc703a](https://github.com/Elivandro/freezer-control/commit/cfc703a8ac117f7eb457a996c3d75f60b69bce9b))
+* add url amigavel slug resources ([563348d](https://github.com/Elivandro/freezer-control/commit/563348d1b7a30bb83db7ada3e52cc12c3a51bb62))
+* adicionado relacionamento com fornecedor em product_transactions ([8ffdf4e](https://github.com/Elivandro/freezer-control/commit/8ffdf4eead9099c89bbda542424397bdda4ebeb4))
+* arquivo permissões ([0dcbff4](https://github.com/Elivandro/freezer-control/commit/0dcbff44d5a8c74699164efe68d10137e2a3a8ad))
+* criado gerenciamento de fornecedores no painel ([511fa19](https://github.com/Elivandro/freezer-control/commit/511fa1912a5c7c7408e4042f932bac7aa0e2b620))
+
+
+### Bug Fixes
+
+* call npm on  makefile ([16d2ab6](https://github.com/Elivandro/freezer-control/commit/16d2ab68097ad9dc73bbde20eadbcb6062a05e73))
+* corrige bug na movimentação de produtos ([c219237](https://github.com/Elivandro/freezer-control/commit/c219237acc7d5f4632c677a556ab88085251f854))
+* corrige notification ao exibir erro no pedido ([a167a2d](https://github.com/Elivandro/freezer-control/commit/a167a2d99edd302b995332c18062ce3ea4bdf58e))
+* npm install command added to makefile ([34f5693](https://github.com/Elivandro/freezer-control/commit/34f5693a18470054a1c2882c1670110c35ac5441))
+* npm install command added to makefile ([7dcba57](https://github.com/Elivandro/freezer-control/commit/7dcba5780039f8d8b0a33d5cd1cc0572c7be4d9d))
+* solve problem of client response ([bbded08](https://github.com/Elivandro/freezer-control/commit/bbded086c3c71c3bf2e85c40975c99720066aaca))
+* solve problem of client response ([bfd6e41](https://github.com/Elivandro/freezer-control/commit/bfd6e4150b4f5c3b9d4aed69faaa40384161d4c0))
+
 ## [1.1.2](https://github.com/icarojobs/freezer-control/compare/v1.1.1...v1.1.2) (2024-08-28)
 
 
